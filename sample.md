@@ -98,3 +98,12 @@ That is thamb 👍
     
 ```
 
+
+<!-- Fenced Code Block -->
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```

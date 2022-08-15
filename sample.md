@@ -56,6 +56,11 @@ That is thamb 👍
 [google](https://www.google.com/ "google link")
 
 
+<!-- id -->
+### My Great Heading {#custom-id}
+[Heading IDs](#heading-ids)
+
+
 <!-- images -->
 ![image](https://markdown-here.com/img/icon256.png)
 
